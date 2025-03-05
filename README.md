@@ -1,5 +1,10 @@
 ### <div align="center">I Just Keep Moving Forward. Until My Enemies Are Destroyed</div>
 
+
+### 👁️ About enzo 👁️
+
+### Im french , 14 yo
+
 - If you want to contact me add my discord : **E5Z1**
 
 <h3 align="left">Connect with me:</h3>
