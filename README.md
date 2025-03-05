@@ -20,7 +20,7 @@
 <h2 align="center">⌨️ <strong>Some Bullshit I Know How to Use</strong> ⌨️</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,html,lua,python,github,ps" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=linux,windows,html,lua,python,github," alt="Skills">
   </a>
 </div>
 
