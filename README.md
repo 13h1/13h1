@@ -1,5 +1,9 @@
 <img src="https://i.pinimg.com/originals/69/d4/94/69d4941f7fcc091c66b596e336e7b39e.gif" alt="Bannière" width="100%">
 
+<h2 align="center">
+  <strong>🔥 I Just Keep Moving Forward. Until My Enemies Are Destroyed 🔥</strong>
+</h2>
+
 <h2 align="center">👁️ <strong>About Enzo</strong> 👁️</h2>
 <p align="center">
   <strong>French 14 years old</strong> <br>
@@ -26,3 +30,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,javascript" alt="Skills to Learn">
   </a>
 </div>
+
+<h2 align="center"> Have a nice day 
+
+
+<h2 align="center"> <img src="https://i.pinimg.com/originals/cf/ac/a3/cfaca399a2855f7f568f1bc2ecb826dd.gif" alt="Bannière" width="50%">
