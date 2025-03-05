@@ -23,6 +23,6 @@
 <h2 align="center">🤓 <strong>Wanna Learn</strong> 🤓</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,javascript,cpp" alt="Skills to Learn">
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript" alt="Skills to Learn">
   </a>
 </div>
