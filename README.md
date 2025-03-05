@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/originals/ba/74/be/ba74bee37501bfc3f7a2dd883f4738f8.gif" alt="Bannière" width="100%">
-
+<img src="https://i.pinimg.com/originals/42/10/3e/42103e1154e629331f823fc2de2a555f.gif" alt="Bannière" width="100%">
 
 # E5Z1
