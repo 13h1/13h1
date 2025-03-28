@@ -8,7 +8,7 @@
 <p align="center">
   <strong>French 14 years old</strong> <br>
   <strong>Where to contact me?</strong> <br>
-  <strong>Discord: E5Z1</strong>
+  <strong>Discord: User1ql</strong>
 </p>
 
 <h2 align="center">🏫 <strong>4th Grader</strong> 🏫</h2>
