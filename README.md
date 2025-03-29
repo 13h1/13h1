@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/69/d4/94/69d4941f7fcc091c66b596e336e7b39e.gif" alt="Bannière" width="100%">
 
 <h2 align="center">
-  <strong>🔥 I Just Keep Moving Forward. Until My Enemies Are Destroyed 🔥</strong>
+  <strong> I Just Keep Moving Forward. Until My Enemies Are Destroyed </strong>
 </h2>
 
 <h2 align="center">👁️ <strong>About Enzo</strong> 👁️</h2>
