@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/e5/d5/7f/e5d57f1d6175bfb53a79a61ac1b8558d.jpg" alt="ML Banner" width="600" height="300">
+<img src="https://i.pinimg.com/736x/e5/d5/7f/e5d57f1d6175bfb53a79a61ac1b8558d.jpg" alt="ML Banner" width="900" height="300">
 > _"𝗬𝗼𝘂'𝗿𝗲 𝗻𝗼𝘁 𝗮 𝗯𝗮𝗱 𝗽𝗲𝗿𝘀𝗼𝗻. 𝗕𝘂𝘁 𝘆𝗼𝘂'𝗿𝗲 𝗻𝗼𝘁 𝗮 𝗴𝗼𝗼𝗱 𝗽𝗲𝗿𝘀𝗼𝗻 𝗲𝗶𝘁𝗵𝗲𝗿."_  
 
 
