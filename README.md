@@ -7,8 +7,6 @@
 
 ## About Me
 - 🇫🇷 14 years old
-- 🚀 Learning to code and create
-- 🎮 Gaming enthusiast
 
 ---
 
