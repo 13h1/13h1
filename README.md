@@ -1,37 +1,13 @@
-<img src="https://i.pinimg.com/originals/69/d4/94/69d4941f7fcc091c66b596e336e7b39e.gif" alt="Bannière" width="100%">
+![ml banner]
+(https://i.pinimg.com/736x/e5/d5/7f/e5d57f1d6175bfb53a79a61ac1b8558d.jpg)
 
-<h2 align="center">
-  <strong> I Just Keep Moving Forward. Until My Enemies Are Destroyed </strong>
-</h2>
+> _"𝗬𝗼𝘂’𝗿𝗲 𝗻𝗼𝘁 𝗮 𝗯𝗮𝗱 𝗽𝗲𝗿𝘀𝗼𝗻. 𝗕𝘂𝘁 𝘆𝗼𝘂’𝗿𝗲 𝗻𝗼𝘁 𝗮 𝗴𝗼𝗼𝗱 𝗽𝗲𝗿𝘀𝗼𝗻 𝗲𝗶𝘁𝗵𝗲𝗿."
 
-<h2 align="center">👁️ <strong>About Enzo</strong> 👁️</h2>
-<p align="center">
-  <strong>French 14 years old</strong> <br>
-  <strong>Where to contact me?</strong> <br>
-  <strong>Discord: 5ahz</strong>
-</p>
+ ---
 
-<h2 align="center">🏫 <strong>4th Grader</strong> 🏫</h2>
-<p align="center">
-  <strong>🌸 Anime lover 🌸</strong> <br>
-  <strong>💀 I make some projects and give up 💀</strong>
-</p>
+ ##  About Me
+- 🇫🇷 14 years old
 
-<h2 align="center">⌨️ <strong>Some Bullshit I Know How to Use</strong> ⌨️</h2>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,html,lua,python,github," alt="Skills">
-  </a>
-</div>
+  ---
 
-<h2 align="center">🤓 <strong>Wanna Learn</strong> 🤓</h2>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript" alt="Skills to Learn">
-  </a>
-</div>
-
-<h2 align="center"> Have a nice day 
-
-
-<h2 align="center"> <img src="https://i.pinimg.com/originals/cf/ac/a3/cfaca399a2855f7f568f1bc2ecb826dd.gif" alt="Bannière" width="50%">
+  https://discord.com/users/1331352861619257345
