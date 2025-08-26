@@ -12,6 +12,7 @@
 ## ⁉️관심사
 - Coding
 - Audio config
+  
 
 ---
 
